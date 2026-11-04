@@ -1,0 +1,6 @@
+{
+  "name": "Branco Infoprint - Soluções em Informática e Locação",
+  "description": "Site institucional e catálogo da Branco Infoprint. Venda de computadores, notebooks revisados, PCs gamers, periféricos e locação corporativa de impressoras e máquinas em São Paulo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
